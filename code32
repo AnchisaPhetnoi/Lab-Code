@@ -1,0 +1,1 @@
+create table Todo(id integer primary key autoincrement, content varchar(200), date_created date);
